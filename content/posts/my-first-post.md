@@ -2,7 +2,7 @@
 title: "Hello World"
 date: 2023-05-18T16:59:54-06:00
 author: 'Equipo 1 DSM 9A'
-cover:  "img/hello_world.png"
+cover:  "img/person.jpg"
 ---
 
 PRACTICA 3 - Desarrollo para dispositivos inteligente
